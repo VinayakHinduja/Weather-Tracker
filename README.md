@@ -1,4 +1,4 @@
-# weather_tracker
+## Weather Tracker
 
 A new Flutter project.
 
